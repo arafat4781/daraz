@@ -358,7 +358,7 @@ body{
   display: flex;
   margin-top: 50px;
   padding: 20px;
-  border-top: 1px solid gray;
+  
  }
 
  .card{
@@ -379,7 +379,146 @@ body{
 
 
 
+ .row66{
+  display: flex;
+  position: relative;
+  margin-top: 100px;
+  justify-content: center;
+ }
 
+ .cata{
+  position: absolute;
+  margin-top:40px;
+ margin-left: 150px;
+ font-size: 30px;
+ color: rgba(57, 69, 80, 0.477);
+ 
+ }
+
+ .cat{
+  border-left: 1px solid gainsboro;
+ }
+
+.cat:hover{
+  box-shadow: 0 2px 8px rgba(5, 232, 115, 0.623);
+}
+ .cat img{
+  height: 150px;
+  width: 150px;
+ }
+
+ .cat p{
+  text-align: center;
+  background-color:#f9f9f9;
+ }
+
+
+ 
+
+ .row444 h2{
+  position: absolute;
+  margin-top: 10px;
+  left: 10%;
+  color: rgba(77, 75, 73, 0.363);
+ }
+
+.card22{
+  display: flex;
+  position: absolute;
+  left: 10%;
+  margin-top: 60px;
+  padding: 10px;
+  background-color: #f5eded94;
+
+}
+
+
+.card1{
+  padding: 5px;
+  
+  
+}
+
+.card1 p{
+  background-color:rgba(244, 231, 215, 0.493) ;
+}
+
+
+.card1:hover{
+  border: 1px solid rgba(128, 128, 128, 0.187);
+  box-shadow: 0 4px 8px rgba(5, 232, 115, 0.623);
+ }
+
+.row777{
+  position: absolute;
+  
+}
+ .lode-more button{
+  background-color: transparent;
+  color: chocolate;
+  border: none;
+  border: 1px solid chocolate;
+  width: 450px;
+  height: 40px;
+  margin-top: 500px;
+  margin-left: 40%;
+  
+ }
+
+
+ .row00{
+  display: flex;
+  margin-left: 150px;
+  margin-right: 400px;
+ }
+
+
+ .headerr h4{
+  color: chocolate;
+  padding-top: 10px;
+ }
+
+ .headerr a{
+  text-decoration: none;
+  color: black;
+ }
+ 
+ .headerr a:hover{
+  border-bottom: 1px solid black;
+ }
+
+
+ .headerr span:hover{
+  border-bottom: 1px solid black;
+ }
+
+ .png img{
+  padding: 5px;
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  background-color:white;
+ }
+
+
+.foot-icon a{
+   text-decoration: none;
+}
+
+
+.row99{
+  display: flex;
+  margin-left: 150px;
+  margin-right: 350px;
+  
+}
+
+
+
+.row090 h6{
+  
+  text-align: center;
+  
+}
 
 
 
